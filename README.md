@@ -25,16 +25,16 @@ https://real-time-chat-application-frontend-z3sc.onrender.com
 This project is built with a modern and robust technology stack:
 
 
-
+| Category                | Technology                                                                                                  |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Frontend** | [React](https://reactjs.org/), [Redux Toolkit](https://redux-toolkit.js.org/), [Tailwind CSS](https://tailwindcss.com/) |
+| **Backend** | [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)                                         |
+| **Database** | [MongoDB](https://www.mongodb.com/) with [Mongoose](https://mongoosejs.com/)                                  |
+| **Real-time Communication** | [Socket.io](https://socket.io/)                                                                             |
+| **Image Storage** | [Cloudinary](https://cloudinary.com/)                                                                       |
 Frontend : React, Redux Toolkit, Tailwind CSS
 
-Backend  : Node.js, Express.js
 
-Database : MongoDB with Mongoose
-
-Real-time Communication : Socket.io
-
-Image Storage : Cloudinary
 
 🚢 Deployment
 The application is deployed and live, with the different parts hosted on the following platforms:
