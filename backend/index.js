@@ -13,7 +13,7 @@ const port=process.env.PORT || 5000
 
 
 app.use(cors({
-    origin:"https://real-time-chat-application-frontend-vqp3.onrender.com",
+    origin:"https://real-time-chat-application-frontend-z3sc.onrender.com",
     credentials:true
 }))
 app.use(express.json())
