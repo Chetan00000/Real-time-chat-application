@@ -7,6 +7,6 @@ const genToken=async (userId)=>{
     } catch (error) {
         console.log("gen token error")
     }
-}
+}//new token added
 
 export default genToken
