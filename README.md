@@ -57,7 +57,7 @@ Login Page
 <img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/fe59b11b-b6b6-4684-a8d6-6c7db6189128" />
 
 
-Chat Interface
+
 
 
 
