@@ -26,7 +26,7 @@ https://real-time-chat-application-frontend-z3sc.onrender.com
 💾 Persistent Data: User and chat data are stored reliably in a MongoDB database with Mongoose ODM.
 
 <br>
----
+
 
 ## 🛠️ Tech Stack
 This project is built with a modern and robust technology stack:
@@ -42,7 +42,6 @@ This project is built with a modern and robust technology stack:
 Frontend : React, Redux Toolkit, Tailwind CSS
 
 <br>
----
 
 ## 🚢 Deployment
 The application is deployed and live, with the different parts hosted on the following platforms:
