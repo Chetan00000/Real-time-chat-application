@@ -39,7 +39,7 @@ This project is built with a modern and robust technology stack:
 | **Database** | [MongoDB](https://www.mongodb.com/) with [Mongoose](https://mongoosejs.com/)                                  |
 | **Real-time Communication** | [Socket.io](https://socket.io/)                                                                             |
 | **Image Storage** | [Cloudinary](https://cloudinary.com/)                                                                       |
-Frontend : React, Redux Toolkit, Tailwind CSS
+|**Frontend **| [React, Redux Toolkit, Tailwind CSS]
 
 <br>
 
