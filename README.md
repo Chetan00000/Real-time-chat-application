@@ -8,8 +8,9 @@ This is a full-featured, real-time chat application inspired by WhatsApp, built 
 Check out the live version of the application here:
 
 https://real-time-chat-application-frontend-z3sc.onrender.com
+<br>
 ---
-##✨ Features
+## ✨ Features
 👥 1:1 Real-Time Messaging: Instantaneous message delivery and reception using WebSockets (Socket.io).
 
 🔐 User Authentication: Secure user registration and login functionality using JSON Web Tokens (JWT).
@@ -24,9 +25,10 @@ https://real-time-chat-application-frontend-z3sc.onrender.com
 
 💾 Persistent Data: User and chat data are stored reliably in a MongoDB database with Mongoose ODM.
 
-
+<br>
 ---
-##🛠️ Tech Stack
+<br>
+## 🛠️ Tech Stack
 This project is built with a modern and robust technology stack:
 
 
@@ -41,7 +43,8 @@ Frontend : React, Redux Toolkit, Tailwind CSS
 
 
 ---
-##🚢 Deployment
+<br>
+## 🚢 Deployment
 The application is deployed and live, with the different parts hosted on the following platforms:
 
 Frontend: Render
@@ -52,7 +55,7 @@ Database: MongoDB Atlas
 
 
 ---
-##📸 Screenshots
+## 📸 Screenshots
 
 Chat Interface
 <img width="1908" height="943" alt="image" src="https://github.com/user-attachments/assets/9b615945-6362-4698-bf00-ac18ae9fbe2f" />
@@ -70,5 +73,5 @@ Login Page
 
 ---
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
