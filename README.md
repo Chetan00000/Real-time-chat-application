@@ -1,11 +1,14 @@
-Real-Time Chat Application (MERN Stack)
+# 💬Real-Time Chat Application (MERN Stack)
+---
 This is a full-featured, real-time chat application inspired by WhatsApp, built using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io. It provides users with a seamless and interactive messaging experience, complete with user authentication, image uploads, and live status indicators.
-
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+<br>
 🚀 Live Demo
 Check out the live version of the application here:
 
 https://real-time-chat-application-frontend-z3sc.onrender.com
-
+---
 ✨ Features
 👥 1:1 Real-Time Messaging: Instantaneous message delivery and reception using WebSockets (Socket.io).
 
@@ -20,7 +23,7 @@ https://real-time-chat-application-frontend-z3sc.onrender.com
 🟢 Live Status Indicators: See when users are online and get real-time feedback with typing indicators.
 
 💾 Persistent Data: User and chat data are stored reliably in a MongoDB database with Mongoose ODM.
-
+---
 🛠️ Tech Stack
 This project is built with a modern and robust technology stack:
 
@@ -35,7 +38,7 @@ This project is built with a modern and robust technology stack:
 Frontend : React, Redux Toolkit, Tailwind CSS
 
 
-
+---
 🚢 Deployment
 The application is deployed and live, with the different parts hosted on the following platforms:
 
@@ -44,7 +47,7 @@ Frontend: Render
 Backend: Render
 
 Database: MongoDB Atlas
-
+---
 📸 Screenshots
 
 Chat Interface
@@ -61,7 +64,7 @@ Login Page
 
 
 
-
+---
 
 📄 License
 This project is licensed under the MIT License.
