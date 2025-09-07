@@ -1,6 +1,6 @@
 # 💬Real-Time Chat Application (MERN Stack)
----
 This is a full-featured, real-time chat application inspired by WhatsApp, built using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io. It provides users with a seamless and interactive messaging experience, complete with user authentication, image uploads, and live status indicators.
+<br>
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 <br>
