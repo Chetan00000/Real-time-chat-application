@@ -4,11 +4,13 @@ This is a full-featured, real-time chat application inspired by WhatsApp, built 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 <br>
-🚀 Live Demo
-Check out the live version of the application here:
+---
+## 🚀 Live Demo
 
-https://real-time-chat-application-frontend-z3sc.onrender.com
-<br>
+You can view the live version of my portfolio here:
+
+**[➡️ View Live Demo](https://real-time-chat-application-frontend-z3sc.onrender.com)**
+
 ---
 ## ✨ Features
 👥 1:1 Real-Time Messaging: Instantaneous message delivery and reception using WebSockets (Socket.io).
