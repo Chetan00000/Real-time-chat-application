@@ -55,13 +55,13 @@ Database: MongoDB Atlas
 ---
 ## 📸 Screenshots
 
-Chat Interface
+**Chat Interface**
 <img width="1908" height="943" alt="image" src="https://github.com/user-attachments/assets/9b615945-6362-4698-bf00-ac18ae9fbe2f" />
 <img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/e717262f-b3ef-4fb0-8485-46f03ff48567" />
 <img width="1910" height="934" alt="image" src="https://github.com/user-attachments/assets/2e79325b-287a-46e6-a3ed-f8ccd4102061" />
 
 
-Login Page
+**Login Page**
 <img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/fe59b11b-b6b6-4684-a8d6-6c7db6189128" />
 
 
