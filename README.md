@@ -73,3 +73,11 @@ Login Page
 
 ## 📄 License
 This project is licensed under the MIT License.
+---
+## 🤝 Let's Connect
+
+I'm always open to connecting and discussing new opportunities.  
+
+- **LinkedIn:** [Chetan Chauhan](https://www.linkedin.com/in/chetan-chauhan-6543a7248/)  
+- **Email:** [chauhanchetan2004@gmail.com](mailto:chauhanchetan2004@gmail.com)
+
